@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI and Robotics engineer with experience in Full Stack Development</h3>
 
 - 📫 How to reach me **christyjo.manthara@gmail.com**
-- 🤹 My top works are available on **thechristyjo.netlify.app**
+- 🤹 My top works are available on <thechristyjo.netlify.app>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
