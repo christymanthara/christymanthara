@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christy</h1>
-<h3 align="center">A passionate AI and Robotics engineer with experience in Full Stack Development</h3>
+<h3 align="center">A passionate AI and Robotics engineer with experience in Full Stack Development, Generative AI and Computer Vision</h3>
 
 - 📫 How to reach me **christyjo.manthara@gmail.com**
 - 🤹 My top works are available on [my website](thechristyjo.netlify.app)
